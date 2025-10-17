@@ -1,6 +1,6 @@
 # Orientador
 
-Prof. Dr.: Sérgio Assunção Monteiro
-Faculdade: Estácio de Sá
-Curso: Análise e Desenvolvimento de Sistemas
-Disciplina: Desenv. Web em HTML5, CSS, Javascript e PHP
+Prof. Dr.: Sérgio Assunção Monteiro<br>
+Faculdade: Estácio de Sá<br>
+Curso: Análise e Desenvolvimento de Sistemas<br>
+Disciplina: Desenv. Web em HTML5, CSS, Javascript e PHP<br>
