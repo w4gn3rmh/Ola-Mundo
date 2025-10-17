@@ -1,5 +1,6 @@
-# Olá, Mundo!
+# Orientador
 
- Primeiro repositório do curso de Git e GitHub
-
- Repositório criado durante uma aula do CursoemVideo do Gustavo Guanabara.
+Prof. Dr.: Sérgio Assunção Monteiro
+Faculdade: Estácio de Sá
+Curso: Análise e Desenvolvimento de Sistemas
+Disciplina: Desenv. Web em HTML5, CSS, Javascript e PHP
